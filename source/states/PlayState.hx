@@ -622,11 +622,13 @@ class PlayState extends MusicBeatState
 				#end
 			}
 		#end
-		
+
+		#if mobile
 		addMobileControls();
 		mobileControls.instance.visible = true;
 		mobileControls.onButtonDown.add(onButtonPress);
 		mobileControls.onButtonUp.add(onButtonRelease);
+		#end
 
 		if(eventNotes.length > 0)
 		{
