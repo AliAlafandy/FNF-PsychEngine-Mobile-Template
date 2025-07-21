@@ -176,11 +176,13 @@ class NotesColorSubState extends MusicBeatSubstate
 		controllerPointer.visible = controls.controllerMode;
 		_lastControllerMode = controls.controllerMode;
 
+		#if mobile
 		addTouchPad('NONE', 'B_C');
 		controls.isInSubstate = true;
 		touchPad.buttonB.x = FlxG.width - 132;
 		touchPad.buttonC.x = 0;
 		touchPad.buttonC.y = FlxG.height - 135;
+		#end
 	}
 
 	function updateTip()
