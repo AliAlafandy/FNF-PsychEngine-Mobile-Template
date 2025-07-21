@@ -74,6 +74,11 @@
       "dir": null,
       "ref": "dev",
       "url": "https://github.com/AliAlafandy/flxanimate.git"
+    },
+    {
+      "name": "hscript-iris",
+      "type": "haxelib",
+      "version": "1.1.3"
     }
   ]
 }
