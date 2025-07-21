@@ -83,7 +83,11 @@ class DialogueEditorState extends MusicBeatState implements PsychUIEventHandler.
 		daText.setScale(0.7);
 		add(daText);
 		changeText();
+
+		#if mobile
 		addTouchPad('LEFT_FULL', 'A_B_X_Y');
+		#end
+		
 		super.create();
 	}
 
