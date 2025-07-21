@@ -114,8 +114,10 @@ class ControlsSubState extends MusicBeatSubstate
 		add(text);
 
 		createTexts();
-		
+
+		#if mobile
 		addTouchPad('NONE', 'B');
+		#end
 	}
 
 	var lastID:Int = 0;
