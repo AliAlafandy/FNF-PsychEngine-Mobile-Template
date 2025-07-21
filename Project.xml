@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Alafandy Engine" file="AlafandyEngine" packageName="com.alialafandy.alafandyengine" package="com.alialafandy.alafandyengine" main="Main" version="6.9.9" company="AliAlafandy" />
+	<app title="Friday Night Funkin': Psych Engine" file="PsychEngine" packageName="com.yourname.psychengine" package="com.yourname.psychengine" main="Main" version="1.0.4" company="YourName" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
