@@ -10,17 +10,17 @@
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": "9.3.2"
+      "version": "9.3.3"
     },
     {
       "name": "flixel",
       "type": "haxelib",
-      "version": "5.5.0"
+      "version": "5.6.1"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "3.2.1"
+      "version": "3.2.2"
     },
     {
       "name": "flixel-tools",
@@ -28,30 +28,28 @@
       "version": "1.5.1"
     },
     {
-      "name": "flixel-ui",
+      "name": "hxvlc",
       "type": "haxelib",
-      "version": "2.5.0"
+      "version": "2.0.1"
     },
     {
-      "name": "hxcpp",
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": "1.2.4"
+    },
+    {
+      "name": "funkin.vis",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/hxcpp"
+      "url": "https://github.com/FunkinCrew/funkVis"
     },
     {
-      "name": "hxCodec",
+      "name": "grig.audio",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/hxCodec"
-    },
-    {
-      "name": "SScript",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/AliAlafandy/SScript"
+      "url": "https://gitlab.com/haxe-grig/grig.audio"
     },
     {
       "name": "tjson",
@@ -61,7 +59,7 @@
     {
       "name": "hxdiscord_rpc",
       "type": "haxelib",
-      "version": null
+      "version": "1.2.4"
     },
     {
       "name": "linc_luajit",
