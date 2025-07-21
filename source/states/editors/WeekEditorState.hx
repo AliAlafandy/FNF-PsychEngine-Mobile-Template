@@ -99,7 +99,9 @@ class WeekEditorState extends MusicBeatState implements PsychUIEventHandler.Psyc
 
 		FlxG.mouse.visible = true;
 
+		#if mobile
 		addTouchPad('UP_DOWN', 'B');
+		#end
 
 		super.create();
 	}
