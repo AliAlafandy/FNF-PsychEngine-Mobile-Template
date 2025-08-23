@@ -5,7 +5,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/lime"
+      "url": "https://github.com/AlafandyPorting/lime"
     },
     {
       "name": "openfl",
@@ -66,14 +66,14 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/AliAlafandy/linc_luajit"
+      "url": "https://github.com/AlafandyPorting/linc_luajit"
     },
     {
       "name": "flxanimate",
       "type": "git",
       "dir": null,
       "ref": "dev",
-      "url": "https://github.com/AliAlafandy/flxanimate.git"
+      "url": "https://github.com/ShadowMario/flxanimate.git"
     },
     {
       "name": "hscript-iris",
